@@ -1,5 +1,5 @@
 <div  align="center">
-  <a href="https://www.linkedin.com/in/nicolas-oliveira-mariano-81667992/"><img src="https://raw.githubusercontent.com/nicolas-oliveira/images/master/gists/cover.gif" width="100%"></img></a><br>
+  <a href="https://www.linkedin.com/in/nicolas-oliveira-mariano-81667992/"><img src="https://raw.githubusercontent.com/nicolas-oliveira/images/master/gists/cover.gif" width="900px"></img></a><br>
 </div>
 
 <div align="center">
