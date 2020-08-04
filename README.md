@@ -10,3 +10,16 @@
     <img src="https://img.shields.io/badge/-NicolasOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-oliveira-mariano-81667992" ></img>
   </a>
 </div>
+
+
+# I have gists! 
+- [How to install and use Handlebars with express](https://gist.github.com/nicolas-oliveira/ecbacc4beb19ab53d5194ce60f453b26)
+- [Configure React without npx create-react-app](https://gist.github.com/nicolas-oliveira/f789763e23a17d32c78ba4597e20b3c2)
+- [How to create a Ink Terminal React program](https://gist.github.com/nicolas-oliveira/9161db4da0bd84f6314bcbe32b453504)
+- [Multer conversion file to hex hash exemple:](https://gist.github.com/nicolas-oliveira/34656e0dd4b355c46b284c770ce33b01)
+- [Sequelize e ORM (In portuguese)](https://gist.github.com/nicolas-oliveira/30cd17a4e5df2234da266bd7b260264a)
+- [Refactoring to classes and ES6 in Node.js](https://gist.github.com/nicolas-oliveira/4fd24a64fb9d7832a7609ab76ebc4bb3)
+- [Docker, the dumb aswers for dumb questions. (In portuguese)](https://gist.github.com/nicolas-oliveira/c8c8b658597e4a8bda75c6a629436436)
+- [Padronização dos Commits com commitlint (In portuguese)](https://gist.github.com/nicolas-oliveira/b9db627eeb0364bc2b365c0314369e35)
+- [Como criar um ambiente de desenvolvimento com ES6 + Webpack (In portuguese)](https://gist.github.com/nicolas-oliveira/195287638580064bff2facd54cc1147d)
+- [You Don't Know JavaScript - pt - br (Atalhos dos capítulos)](https://gist.github.com/nicolas-oliveira/82c267bba6c745aaf0b8e841b9193f3a)
