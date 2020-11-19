@@ -13,6 +13,7 @@
 
 
 # I have gists! 
+- [Como juntar vários commits em um só](https://gist.github.com/nicolas-oliveira/77cf5ef0032b33af479e1c5cf0a48d59)
 - [How to install and use Handlebars with express](https://gist.github.com/nicolas-oliveira/ecbacc4beb19ab53d5194ce60f453b26)
 - [Configure React without npx create-react-app](https://gist.github.com/nicolas-oliveira/f789763e23a17d32c78ba4597e20b3c2)
 - [How to create a Ink Terminal React program](https://gist.github.com/nicolas-oliveira/9161db4da0bd84f6314bcbe32b453504)
