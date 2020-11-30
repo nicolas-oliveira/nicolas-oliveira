@@ -11,8 +11,15 @@
   </a>
 </div>
 
+# Tenho um blog!
 
-# I have gists! 
+<a href="https://bruxo.hashnode.dev">
+    <img src="https://img.shields.io/badge/-Clique%20aqui%20para%20acessar%20o%20blog-green?style=flat-square&link=https://bruxo.hashnode.dev" ></img>
+  </a>
+  
+# I have gists!
+
+
 - [Como juntar vários commits em um só](https://gist.github.com/nicolas-oliveira/77cf5ef0032b33af479e1c5cf0a48d59)
 - [How to install and use Handlebars with express](https://gist.github.com/nicolas-oliveira/ecbacc4beb19ab53d5194ce60f453b26)
 - [Configure React without npx create-react-app](https://gist.github.com/nicolas-oliveira/f789763e23a17d32c78ba4597e20b3c2)
