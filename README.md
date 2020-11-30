@@ -13,9 +13,11 @@
 
 # Tenho um blog!
 
+<div align="center">
 <a href="https://bruxo.hashnode.dev">
     <img src="https://img.shields.io/badge/-Clique%20aqui%20para%20acessar%20o%20blog-green?style=flat-square&link=https://bruxo.hashnode.dev" ></img>
   </a>
+</div>
   
 # I have gists!
 
