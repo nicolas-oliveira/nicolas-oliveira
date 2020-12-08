@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/-Clique%20aqui%20para%20acessar%20o%20blog-green?style=flat-square&link=https://bruxo.hashnode.dev" ></img>
 </a>
 
-## E está cheio de post interessantes, confira!
+## E está cheio de posts interessantes, confira!
 
 - [Padronização dos Commits com commitlint](https://bruxo.hashnode.dev/padronizacao-dos-commits-com-commitlint)
 - [Docker, tudo que você precisa saber em 9 minutos](https://bruxo.hashnode.dev/docker-tudo-que-voce-precisa-saber-em-9-minutos)
