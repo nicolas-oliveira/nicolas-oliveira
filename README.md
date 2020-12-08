@@ -11,12 +11,13 @@
   </a>
 </div>
 
-# Tenho um blog!
+<h1 algin="center">Tenho um blog!</h1>
 
-
+<div align="center">
 <a href="https://bruxo.hashnode.dev">
     <img src="https://img.shields.io/badge/-Clique%20aqui%20para%20acessar%20o%20blog-green?style=flat-square&link=https://bruxo.hashnode.dev" ></img>
 </a>
+</div>
 
 ## E está cheio de posts interessantes, confira!
 
