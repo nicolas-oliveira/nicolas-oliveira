@@ -20,7 +20,7 @@
 </div>
 
 ## E está cheio de posts interessantes, confira!
-
+- [Criei um servidor doméstico do ZERO com um clone do Google Drive dentro](https://bruxo.hashnode.dev/servidor-do-zero-com-nextcloud)
 - [Padronização dos Commits com commitlint](https://bruxo.hashnode.dev/padronizacao-dos-commits-com-commitlint)
 - [Docker, tudo que você precisa saber em 9 minutos](https://bruxo.hashnode.dev/docker-tudo-que-voce-precisa-saber-em-9-minutos)
 - [Como juntar vários commits em um só](https://bruxo.hashnode.dev/padronizacao-dos-commits-com-commitlint)
