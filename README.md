@@ -3,27 +3,21 @@
 </div>
 <br/>
 <div align="center">
+    <a href="https://bruxo.hashnode.dev">
+    <img src="https://img.shields.io/badge/-Acesse%20o%20Meu%20Blog%20BruxoJS-yellow?style=flat-square&link=https://bruxo.hashnode.dev" ></img>
+  </a>
     <a href="https://www.linkedin.com/in/nicolas-oliveira-mariano-81667992">
     <img src="https://img.shields.io/badge/-NicolasOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-oliveira-mariano-81667992" ></img>
   </a>
   <a href="mailto:nicolas.oliveira.ug@gmail.com">
       <img src="https://img.shields.io/badge/-nicolas.oliveira.ug@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolas.oliveira.ug@gmail.com" ></img>
   </a>
-  <a href="https://bruxo.hashnode.dev">
-    <img src="https://img.shields.io/badge/-Meu%20Blog%20BruxoJS-yellow?style=flat-square&link=https://bruxo.hashnode.dev" ></img>
-  </a>
   <a href="#">
     <img src="https://komarev.com/ghpvc/?username=nicolas-oliveira"></img>
   </a>
 </div>
 
-<div align="center">
-<h1>Tenho um blog!</h1>
-
-
-</div>
-
-## E está cheio de posts interessantes, confira!
+## Meu blog está cheio de posts interessantes, confira!
 - [Faça seu push automaticamente com SSH no Github (Linux)](https://bruxo.hashnode.dev/faca-seu-push-automaticamente-com-ssh-no-github-linux)
 - [Criei um servidor doméstico do ZERO com um clone do Google Drive dentro](https://bruxo.hashnode.dev/servidor-do-zero-com-nextcloud)
 - [Padronização dos Commits com commitlint](https://bruxo.hashnode.dev/padronizacao-dos-commits-com-commitlint)
