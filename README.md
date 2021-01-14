@@ -18,6 +18,7 @@
 </div>
 
 ## Meu blog está cheio de posts interessantes, confira!
+- [Padrão de código com Eslint, Prettier e Babel no React](https://bruxo.hashnode.dev/padrao-de-codigo-com-eslint-prettier-e-babel-no-react)
 - [Faça seu push automaticamente com SSH no Github (Linux)](https://bruxo.hashnode.dev/faca-seu-push-automaticamente-com-ssh-no-github-linux)
 - [Criei um servidor doméstico do ZERO com um clone do Google Drive dentro](https://bruxo.hashnode.dev/servidor-do-zero-com-nextcloud)
 - [Padronização dos Commits com commitlint](https://bruxo.hashnode.dev/padronizacao-dos-commits-com-commitlint)
