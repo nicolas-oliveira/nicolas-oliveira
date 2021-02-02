@@ -1,37 +1,13 @@
-<div  align="center">
-  <a href="https://www.linkedin.com/in/nicolas-oliveira-mariano-81667992/"><img src="https://raw.githubusercontent.com/nicolas-oliveira/images/master/gists/cover.gif" width="700px"></img></a><br>
-</div>
-<br/>
-<div align="center">
-    <a href="https://bruxo.hashnode.dev">
-    <img src="https://img.shields.io/badge/-Acesse%20o%20Meu%20Blog%20BruxoJS-yellow?style=flat-square&link=https://bruxo.hashnode.dev" ></img>
-  </a>
-    <a href="https://www.linkedin.com/in/nicolas-oliveira-mariano-81667992">
-    <img src="https://img.shields.io/badge/-NicolasOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-oliveira-mariano-81667992" ></img>
-  </a>
-  <a href="mailto:nicolas.oliveira.ug@gmail.com">
-      <img src="https://img.shields.io/badge/-nicolas.oliveira.ug@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolas.oliveira.ug@gmail.com" ></img>
-  </a>
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=nicolas-oliveira"></img>
-  </a>
-</div>
+<h1 align="center"> Hi!<br> I'm Nicolas Oliveira! :wave: </h1>
+<h3 align="center">Focused in learn everything, everyday</h3>
 
-## Meu blog está cheio de posts interessantes, confira!
-- [Como configurar o MongoDB localmente no backend usando Docker e Mongoose](https://bruxo.hashnode.dev/mongodb-localmente-no-backend-usando-docker-e-mongoose)
-- [Padrão de código com Eslint, Prettier e Babel no React](https://bruxo.hashnode.dev/padrao-de-codigo-com-eslint-prettier-e-babel-no-react)
-- [Faça seu push automaticamente com SSH no Github (Linux)](https://bruxo.hashnode.dev/faca-seu-push-automaticamente-com-ssh-no-github-linux)
-- [Criei um servidor doméstico do ZERO com um clone do Google Drive dentro](https://bruxo.hashnode.dev/servidor-do-zero-com-nextcloud)
-- [Padronização dos Commits com commitlint](https://bruxo.hashnode.dev/padronizacao-dos-commits-com-commitlint)
-- [Docker, tudo que você precisa saber em 9 minutos](https://bruxo.hashnode.dev/docker-tudo-que-voce-precisa-saber-em-9-minutos)
-- [Como juntar vários commits em um só](https://bruxo.hashnode.dev/padronizacao-dos-commits-com-commitlint)
-- [Refatorando o NodeJS para classes e ES6.](https://bruxo.hashnode.dev/refatorando-o-nodejs-para-classes-e-es6)
-- [O básico do Sequelize em 2 minutos](https://bruxo.hashnode.dev/o-basico-do-sequelize-em-2-minutos)
-- [How to install and use Handlebars with express](https://bruxo.hashnode.dev/how-to-install-and-use-handlebars-with-express)
-- [Configure React without npx create-react-app](https://bruxo.hashnode.dev/configure-react-without-npx-create-react-app)
-- [How to create a Ink Terminal React program](https://bruxo.hashnode.dev/how-to-create-a-ink-terminal-react-program)
-- [Como criar um ambiente de desenvolvimento com ES6 + Webpack (In portuguese)](https://gist.github.com/nicolas-oliveira/195287638580064bff2facd54cc1147d)
+- I'm currently working with React, React Native and NodeJS
+- Currently learning Typescript, NextJS and GraphQL and maybe Elixir
+- :brazil: Born in Brazil, Passos - Minas Gerais
+- :bulb: I like to help another people so I create content in my blog
 
-# Gists!
-- [You Don't Know JavaScript - pt - br (Atalhos dos capítulos)](https://gist.github.com/nicolas-oliveira/82c267bba6c745aaf0b8e841b9193f3a)
-- [Multer conversion file to hex hash exemple:](https://gist.github.com/nicolas-oliveira/34656e0dd4b355c46b284c770ce33b01)
+### Let's talk:
+[![Blog Badge](https://img.shields.io/badge/-My%20Blog-d27728?style=flat-square&link=https://bruxo.hashnode.dev)](https://bruxo.hashnode.dev)
+[![Twitter Badge](https://img.shields.io/badge/-@nickcagenick1-d27728?style=flat-square&labelColor=d27728&logo=twitter&logoColor=white&link=https://twitter.com/nickcagenick1)](https://twitter.com/nickcagenick1) 
+[![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Oliveira-d27728?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasom/)](https://www.linkedin.com/in/nicolasom/) 
+[![Gmail Badge](https://img.shields.io/badge/-nicolas.oliveira.ug@gmail.com-d27728?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolas.oliveira.ug@gmail.com)](mailto:nicolas.oliveira.ug@gmail.com)
