@@ -2,7 +2,7 @@
 <h3 align="center">Focused in learn everything, everyday</h3>
 
 - I'm currently working with React, React Native and NodeJS
-- Currently learning Typescript, NextJS and GraphQL and maybe Elixir
+- Currently learning Typescript, NextJS and GraphQL and sopmetimes Elixir
 - :brazil: Born in Brazil, Passos - Minas Gerais
 - :bulb: I like to help another people so I create content in my blog
 
