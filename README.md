@@ -8,12 +8,12 @@
 <img src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" />
 </div></br>
 
-- I'm currently working with React, React Native and NodeJS
-- Currently learning Typescript, NextJS and GraphQL and sometimes Elixir
+- :trophy: I'm currently working with React, React Native and NodeJS
+- :dart: Currently learning Typescript, NextJS and GraphQL and sometimes Elixir
 - :brazil: Born in Brazil, Passos - Minas Gerais
 - :bulb: I like to help another people so I create content in my blog
 
-### Let's talk:
+### :beer: Let's talk:
 [![Blog Badge](https://img.shields.io/badge/My%20Blog-007acc?style=flat-square&logo=blogger&logoColor=white&link=https://bruxo.hashnode.dev)](https://bruxo.hashnode.dev)
 [![Twitter Badge](https://img.shields.io/badge/-@nickcagenick1-007acc?style=flat-square&labelColor=007acc&logo=twitter&logoColor=white&link=https://twitter.com/nickcagenick1)](https://twitter.com/nickcagenick1) 
 [![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Oliveira-007acc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasom/)](https://www.linkedin.com/in/nicolasom/) 
