@@ -2,10 +2,10 @@
 <h3 align="center">Focused in learn everything, everyday</h3>
 
 <div align="center">
-<img src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="90" />
-<img src="https://media3.giphy.com/media/Y06jfuK1Bni5PkZwS2/giphy.gif" width="90" />
-<img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="90" />
-<img src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="90" />
+<img src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="80" />
+<img src="https://media3.giphy.com/media/Y06jfuK1Bni5PkZwS2/giphy.gif" width="80" />
+<img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" />
+<img src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" />
 </div></br>
 
 - I'm currently working with React, React Native and NodeJS
