@@ -13,6 +13,8 @@
 - :brazil: Born in Brazil, Passos - Minas Gerais
 - :bulb: I like to help another people so I create content in my blog
 
+> Computer science is more than programming. It is about solving problems under constraints, with the goal of automation and resource optimization.
+
 ### :beer: Let's talk:
 [![Gmail Badge](https://img.shields.io/badge/-nicolas.oliveira.ug@gmail.com-007acc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolas.oliveira.ug@gmail.com)](mailto:nicolas.oliveira.ug@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/My%20Blog-007acc?style=flat-square&logo=blogger&logoColor=white&link=https://bruxo.hashnode.dev)](https://bruxo.hashnode.dev)
