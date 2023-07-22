@@ -8,8 +8,8 @@
 <img src="https://media2.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" />
 </div></br>
 
-- :trophy: I'm currently working with Javascript, AWS, Lambda Functions, NodeJS, VueJS, ReactJS and React Native.
-- :dart: Currently learning Typescript, GraphQL, Kafka, Docker, AWS and sometimes whatever comes to my mind and is interesting.
+- :trophy: I'm currently working with Javascript, Typescript, AWS, Lambda Functions, Docker, NodeJS, VueJS, ReactJS and React Native.
+- :dart: Currently learning Golang, Python, GraphQL, Kafka and sometimes whatever comes to my mind and is interesting.
 - :brazil: Born in Brazil, Passos - Minas Gerais
 - :bulb: I like to help another people so I create content in my blog
 
