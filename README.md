@@ -18,5 +18,5 @@
 ### :beer: Let's talk:
 [![Gmail Badge](https://img.shields.io/badge/-nicolas.oliveira.ug@gmail.com-007acc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolas.oliveira.ug@gmail.com)](mailto:nicolas.oliveira.ug@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/My%20Blog-007acc?style=flat-square&logo=blogger&logoColor=white&link=https://bruxo.hashnode.dev)](https://bruxo.hashnode.dev)
-[![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Oliveira-007acc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasom/)](https://www.linkedin.com/in/nicolasom/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Oliveira-007acc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-o-m/)](https://www.linkedin.com/in/nicolas-o-m/) 
 [![Portfolio Badge](https://img.shields.io/badge/-My%20Portfolio-007acc?style=flat-square&logoColor=white&link=https://nicolasoliveira.dev)](https://nicolasoliveira.dev)
