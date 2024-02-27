@@ -9,7 +9,7 @@
 </div></br>
 
 - :trophy: I'm currently working with Javascript, Typescript, AWS, Lambda Functions, Docker, NodeJS, VueJS, ReactJS and React Native.
-- :dart: Currently learning Golang, Python, GraphQL, Kafka, Neural Networks and sometimes whatever comes to my mind and is interesting.
+- :dart: Currently learning Golang, Python, GraphQL, Kafka, Machine Learning, Neural Networks and sometimes whatever comes to my mind and is interesting.
 - :brazil: Born in Brazil, Passos - Minas Gerais
 - :bulb: I like to help another people so I create content in my blog
 
